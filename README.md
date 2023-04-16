@@ -12,4 +12,7 @@ Run these commands:
 `npm install`
 
 `node app.js`
+ 
+Or 
 
+Run by docker-compose up -d
